@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head>
+	<title>
+	Erste Seite
+	</title>
+</head>
+<body>
+	<h1> Ich bin die Grösste! </h1>
+	Das ist meine erste Hompag
+</body>
+</html>
